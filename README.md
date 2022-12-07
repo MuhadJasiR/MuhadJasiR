@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhadJasiR
-- 👀 I’m interested in iOS app developing 
-- 🌱 I’m currently learning Swift 
+- 👀 I’m interested...
+- 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alijasir051@gmail.com
 
